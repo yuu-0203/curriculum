@@ -1,7 +1,7 @@
 
 
 （１）MACアドレス：AAAA.AAAA.AAAA
-　　　インターフェイスID：A8 AA FF FE AA AA
+　　　インターフェイスID：A8 AA AA FF FE AA AA AA
 
 （２）MACアドレス：9876.5432.10FE
 　　　インターフェイスID:9A 76 54 FF FE 32 10 FE
